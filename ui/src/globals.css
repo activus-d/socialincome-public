@@ -63,6 +63,9 @@
 		--input: 20 5.9% 90%;
 		--ring: 216 54% 55%;
 		--radius: 0.5rem;
+
+		--osblack: 0, 0%, 0%;
+  		--osgrey: 0, 0%, 50%;
 	}
 
 	.theme-light {

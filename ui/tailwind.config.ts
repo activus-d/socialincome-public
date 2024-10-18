@@ -21,6 +21,8 @@ module.exports = {
 				ring: 'hsl(var(--ring) / <alpha-value>)',
 				background: 'hsl(var(--background) / <alpha-value>)',
 				foreground: 'hsl(var(--foreground) / <alpha-value>)',
+				osblack: 'hsl(var(--osblack) / <alpha-value>)',
+				osgrey: 'hsl(var(--osgrey) / <alpha-value>)',
 				muted: {
 					DEFAULT: 'hsl(var(--muted) / <alpha-value>)',
 					foreground: 'hsl(var(--muted-foreground) / <alpha-value>)',

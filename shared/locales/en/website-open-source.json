@@ -1,0 +1,63 @@
+{
+	"metadata": {
+		"title": "Open-source Insights",
+        "heading": "Contributors"
+	},
+	"contributors": {
+		"contributor1": {
+			"profile_image": "https://example.com/images/contributor1.jpg",
+			"name": "Alice Johnson",
+			"commits": "145 commits"
+		},
+		"contributor2": {
+			"profile_image": "https://example.com/images/contributor2.jpg",
+			"name": "Bob Smith",
+			"commits": "232 commits"
+		},
+		"contributor3": {
+			"profile_image": "https://example.com/images/contributor3.jpg",
+			"name": "Charlie Davis",
+			"commits": "158 commits"
+		},
+		"contributor4": {
+			"profile_image": "https://example.com/images/contributor4.jpg",
+			"name": "Diana Evans",
+			"commits": "29 commits"
+		},
+		"contributor5": {
+			"profile_image": "https://example.com/images/contributor5.jpg",
+			"name": "Edward Green",
+			"commits": "67 commits"
+		},
+		"contributor6": {
+			"profile_image": "https://example.com/images/contributor6.jpg",
+			"name": "Fiona Harris",
+			"commits": "114 commits"
+		},
+		"contributor7": {
+			"profile_image": "https://example.com/images/contributor7.jpg",
+			"name": "George King",
+			"commits": "38 commits"
+		},
+		"contributor8": {
+			"profile_image": "https://example.com/images/contributor8.jpg",
+			"name": "Hannah Lewis",
+			"commits": "23 commits"
+		},
+		"contributor9": {
+			"profile_image": "https://example.com/images/contributor9.jpg",
+			"name": "Ian Martin",
+			"commits": "49 commits"
+		},
+		"contributor10": {
+			"profile_image": "https://example.com/images/contributor10.jpg",
+			"name": "Jasmine Nguyen",
+			"commits": "60 commits"
+		},
+		"contributor11": {
+			"profile_image": "https://example.com/images/contributor11.jpg",
+			"name": "Kevin O'Brien",
+			"commits": "41 commits"
+		}
+	}
+}
